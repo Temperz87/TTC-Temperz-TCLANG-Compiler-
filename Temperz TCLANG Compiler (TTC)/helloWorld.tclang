@@ -1,0 +1,10 @@
+﻿int x = 1;
+int y=2;
+int z = x + y ; // Comment lmaoooo
+
+write(stdout, x);
+write(stdout, y);
+write(stdout, z);
+write(stdout, x + y);
+
+string _yourMom = "\tThis is a literal!\n";
