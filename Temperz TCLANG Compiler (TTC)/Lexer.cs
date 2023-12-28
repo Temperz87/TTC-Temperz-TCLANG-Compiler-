@@ -23,7 +23,7 @@ public class Lexer
             if (string.IsNullOrEmpty(line))
                 continue;
 
-
+             
             if (DEBUG)
                 Console.WriteLine("Now handling line: " + line);
             string currToken = line;
