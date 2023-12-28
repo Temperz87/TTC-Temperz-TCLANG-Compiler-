@@ -2,9 +2,12 @@
 int y=2;
 int z = x + y ; // Comment lmaoooo
 
+z+=3;x=x+y; // Two statements on one line, spoopy!
+
 write(stdout, x);
 write(stdout, y);
 write(stdout, z);
 write(stdout, x + y);
 
 string _yourMom = "\tThis is a literal!\n";
+
